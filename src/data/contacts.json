@@ -1,0 +1,268 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "phone": "+43 533 434 343",
+      "company": "IBM",
+      "isFavorite": false
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "phone": "+41 422 434 346",
+      "company": "Volvo",
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "firstName": "Tom",
+      "lastName": "Jerry",
+      "phone": "+43 443 112 221",
+      "company": "Accenture",
+      "isFavorite": true
+    },
+    {
+      "firstName": "Test",
+      "lastName": "Test",
+      "phone": "123123213",
+      "company": "Garara",
+      "isFavorite": true,
+      "id": 4
+    },
+    {
+      "firstName": "Test",
+      "lastName": "Test",
+      "phone": "123122132123",
+      "company": "21321321",
+      "isFavorite": true,
+      "id": 5
+    },
+    {
+      "firstName": "Tatata",
+      "lastName": "q3q34434",
+      "phone": "qwee122121321321",
+      "company": "eqwewqqwe",
+      "isFavorite": false,
+      "id": 6
+    },
+    {
+      "firstName": "21019d",
+      "lastName": "dsjiaijsa",
+      "phone": "daijdjisadjiasdjasi",
+      "company": "diasdsa",
+      "isFavorite": false,
+      "id": 7
+    },
+    {
+      "firstName": "dddsaad",
+      "lastName": "dadasdadsa",
+      "phone": "2132132321321321",
+      "company": "",
+      "isFavorite": false,
+      "id": 8
+    },
+    {
+      "firstName": "osdajdisadisaj",
+      "lastName": "dosakodsakso",
+      "phone": "123121223213",
+      "company": "24141431",
+      "isFavorite": false,
+      "id": 9
+    },
+    {
+      "firstName": "taijtija",
+      "lastName": "jiajasdjiadsji",
+      "phone": "jijdiaijsjiadjis123",
+      "company": "21232321",
+      "isFavorite": true,
+      "id": 10
+    },
+    {
+      "firstName": "asdassa",
+      "lastName": "dsadad",
+      "phone": "123212332",
+      "company": "",
+      "isFavorite": false,
+      "id": 11
+    },
+    {
+      "firstName": "adasdsa",
+      "lastName": "daddadaa",
+      "phone": "21312321231",
+      "company": "",
+      "isFavorite": false,
+      "id": 12
+    },
+    {
+      "firstName": "Test",
+      "lastName": "qrqwqwqe",
+      "phone": "1231232132",
+      "company": "",
+      "isFavorite": false,
+      "id": 13
+    },
+    {
+      "firstName": "koaskosd",
+      "lastName": "daokdosaoka",
+      "phone": "daskodaskosa",
+      "company": "",
+      "isFavorite": false,
+      "id": 14
+    },
+    {
+      "firstName": "asdodsak",
+      "lastName": "daskokdsoa",
+      "phone": "okdasodoksa",
+      "company": "",
+      "isFavorite": false,
+      "id": 15
+    },
+    {
+      "firstName": "dsdsaads",
+      "lastName": "dadas",
+      "phone": "dasadsadadad",
+      "company": "",
+      "isFavorite": false,
+      "id": 16
+    },
+    {
+      "firstName": "asdasdas",
+      "lastName": "asdasdas",
+      "phone": "asddsadasdas",
+      "company": "",
+      "isFavorite": false,
+      "id": 17
+    },
+    {
+      "firstName": "test",
+      "lastName": "wqwewq",
+      "phone": "2132132321",
+      "company": "",
+      "isFavorite": false,
+      "id": 18
+    },
+    {
+      "firstName": "test",
+      "lastName": "adasdsa",
+      "phone": "124312ee",
+      "company": "assaddsa",
+      "isFavorite": true,
+      "id": 19
+    },
+    {
+      "firstName": "contada",
+      "lastName": "oadkoko",
+      "phone": "122123123",
+      "company": "",
+      "isFavorite": false,
+      "id": 20
+    },
+    {
+      "firstName": "tesadsa1",
+      "lastName": "asdasdsa",
+      "phone": "12132123312",
+      "company": "",
+      "isFavorite": false,
+      "id": 21
+    },
+    {
+      "firstName": "asddsads",
+      "lastName": "saasdsdad",
+      "phone": "sdasdassdsa",
+      "company": "",
+      "isFavorite": false,
+      "id": 22
+    },
+    {
+      "firstName": "adasdsad",
+      "lastName": "dasdadasd",
+      "phone": "dasdasdasd",
+      "company": "",
+      "isFavorite": false,
+      "id": 23
+    },
+    {
+      "firstName": "teteaeta",
+      "lastName": "teetea",
+      "phone": "raraaerer",
+      "company": "",
+      "isFavorite": false,
+      "id": 24
+    },
+    {
+      "firstName": "asdadsa",
+      "lastName": "dasdasdsad",
+      "phone": "2131123213",
+      "company": "",
+      "isFavorite": true,
+      "id": 25
+    },
+    {
+      "firstName": "sadsadad",
+      "lastName": "dasasdad",
+      "phone": "122132131321",
+      "company": "",
+      "isFavorite": false,
+      "id": 26
+    },
+    {
+      "firstName": "tetteae",
+      "lastName": "fasadsdsa",
+      "phone": "122212321",
+      "company": "",
+      "isFavorite": true,
+      "id": 27
+    },
+    {
+      "firstName": "John",
+      "lastName": "Terry",
+      "phone": "1773273237",
+      "company": "Chelsea",
+      "isFavorite": true,
+      "id": 28
+    },
+    {
+      "firstName": "Ashley",
+      "lastName": "Cole",
+      "phone": "127481823",
+      "company": "Arsenal",
+      "isFavorite": true,
+      "id": 29
+    },
+    {
+      "firstName": "Dan",
+      "lastName": "Abramov",
+      "phone": "8128383213",
+      "company": "React",
+      "isFavorite": false,
+      "id": 30
+    },
+    {
+      "firstName": "Jared",
+      "lastName": "Palmer",
+      "phone": "2199493848",
+      "company": "Formik",
+      "isFavorite": false,
+      "id": 31
+    },
+    {
+      "firstName": "Ted",
+      "lastName": "Franklin",
+      "phone": "18482188",
+      "company": "EY",
+      "isFavorite": false,
+      "id": 32
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "phone": "teeeqrq21231321",
+      "company": "",
+      "isFavorite": true,
+      "id": 33
+    }
+  ]
+}
